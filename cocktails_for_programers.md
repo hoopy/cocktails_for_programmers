@@ -73,6 +73,14 @@ This cocktail must be served fast - its froth dissapears quickly. This drink has
 1.  Shake together with ice and strain.
 2.  Garnish with [physalis](http://en.wikipedia.org/wiki/Physalis).
 
+## Clojure
+
+<img src="http://i.imgur.com/ge992OD.jpg" alt="Clojure" title="Clojure" />
+
+**Directions:**
+
+Look at the picture and figure it out.
+
 ## JMP (aka Assembler)
 
 <img src="http://habr.habrastorage.org/post_images/e40/2f5/004/e402f5004acdd7ad9f7d834fed1dc6f1.jpg" alt="JMP" title="JMP" />
